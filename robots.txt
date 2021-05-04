@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://takyon12.github.io/zebricky.com/sitemap.xml

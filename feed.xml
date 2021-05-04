@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>zebričky</title>
+    <link href="https://takyon12.github.io/zebricky.com/feed.xml" rel="self" />
+    <link href="https://takyon12.github.io/zebricky.com" />
+    <updated>2021-05-04T19:52:10+02:00</updated>
+    <author>
+        <name>Katka</name>
+    </author>
+    <id>https://takyon12.github.io/zebricky.com</id>
+
+    <entry>
+        <title>Ako spestriť vtáčikom klietku</title>
+        <author>
+            <name>Katka</name>
+        </author>
+        <link href="https://takyon12.github.io/zebricky.com/ako-spestrit-vtacikom-klietku.html"/>
+        <id>https://takyon12.github.io/zebricky.com/ako-spestrit-vtacikom-klietku.html</id>
+            <category term="BLOG"/>
+
+        <updated>2021-05-04T19:52:10+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ako vybrať správne krmivo</title>
+        <author>
+            <name>Katka</name>
+        </author>
+        <link href="https://takyon12.github.io/zebricky.com/ako-vybrat-spravne-krmivo.html"/>
+        <id>https://takyon12.github.io/zebricky.com/ako-vybrat-spravne-krmivo.html</id>
+            <category term="BLOG"/>
+
+        <updated>2021-05-04T19:51:58+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://takyon12.github.io/zebricky.com/media/posts/1/dev-abhiram-e2AxsdzmDw8-unsplash.jpg" alt="" />
+                    Bla bla bla 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://takyon12.github.io/zebricky.com/media/posts/1/dev-abhiram-e2AxsdzmDw8-unsplash.jpg" alt="" />
+                <p>Bla bla bla</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
